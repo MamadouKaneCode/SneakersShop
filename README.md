@@ -2,7 +2,7 @@
 
 Site vitrine e-commerce dédié à la vente de sneakers au Sénégal (Nike, Jordan, Adidas, Puma). Premier site web déployé par son auteur, réalisé en HTML/CSS et hébergé sur GitHub Pages.
 
-🔗 **Démo en ligne** : [insrobane4-tech.github.io/monsite](https://insrobane4-tech.github.io/monsite/)
+🔗 **Démo en ligne** :  https://mamadoukanecode.github.io/SneakersShop/
 
 ## 📖 À propos
 
